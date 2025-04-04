@@ -1,0 +1,8 @@
+ID    	Item                   Price(RM)
+14002 	EGGS_10                    5.90
+14001 	Sugar_1kg                  2.95
+14005 	F&N_Creamer                3.59
+14005 	F&N_Creamer                3.59
+14006 	Gardenia_bread             2.40
+14203 	Maggi_Curry                3.90 
+14206 	Milo_1kg                  16.49

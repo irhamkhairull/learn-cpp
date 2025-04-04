@@ -1,0 +1,10 @@
+ID    	Item                   Price(RM)
+14002 	EGGS_10                    5.90
+14001 	Sugar_1kg                  2.95
+14001 	Sugar_1kg                  2.95
+14001 	Sugar_1kg                  2.95
+14001 	Sugar_1kg                  2.95
+14001 	Sugar_1kg                  2.95
+14005 	F&N_Creamer                3.59
+14013 	Cookingoil_1L              2.95
+14205 	Lipton_Tea                 8.99
